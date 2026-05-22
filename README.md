@@ -25,11 +25,3 @@ Los datos fueron almacenados en la carpeta `/datos`.
 ##Trazabilidad con Jira ##
 Los commits realizados en GitHub están vinculados a issues en Jira.
 Ejemplo: `NC32-P2 ": Creación de lista de resultados de partidos`.
-## Documentación mejorada del análisis técnico
-Se crearon carpetas nuevas
-Se inicializaron variables para guardar informacion sencible en las mismas y utilizarlas en el git clone
-Al trabajo lo resolvi solo, por eso en Jira a cada issue le asigno mi nombre
-## Documentación mejorada del análisis técnico
-Se crearon carpetas nuevas
-Se inicializaron variables para guardar informacion sencible en las mismas y utilizarlas en el git clone
-Al trabajo lo resolvi solo, por eso en Jira a cada issue le asigno mi nombre
